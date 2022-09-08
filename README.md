@@ -15,3 +15,9 @@
 ### Nest related
 
 - [NestJS Crash Course - Build a Complete Backend API](https://youtu.be/BiN-xzNkH_0)
+
+## 3. Testing
+
+### Jest related
+
+- [2021-08-30-Frontend unit tests - Steven D](https://drive.google.com/file/d/13GiJYIktxdvVAiWMzhZCaq08_Hmjwn-R/view?usp=sharing)
