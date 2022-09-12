@@ -8,7 +8,11 @@
 
 - [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://youtu.be/RVFAyFWO4go)
 
+### Redux related
+
 - [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://youtu.be/NqzdVN2tyvQ)
+
+- [RTK re-fetch,auto-fetch related tags,query and mutation with providesTags and invalidatesTags APIs](https://youtu.be/3QLpHlmdW_U?t=741)
 
 ## 2. Backend
 
