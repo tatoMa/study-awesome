@@ -2,6 +2,8 @@
 
 ## Materials and tutorials for learning JS/TS/NODE, frontend and backend.
 
+## [My Youtube Channel (tutorials related React, CSS and etc.)](https://www.youtube.com/channel/UCtiJrfAIaCZXFo8tvq_TXNQ)
+
 ## 1. Frontend
 
 ### React related
