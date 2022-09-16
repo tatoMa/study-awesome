@@ -2,13 +2,16 @@
 
 ## Materials and tutorials for learning JS/TS/NODE, frontend and backend.
 
-## [My Youtube Channel (tutorials related React, CSS and etc.)](https://www.youtube.com/channel/UCtiJrfAIaCZXFo8tvq_TXNQ)
+## [My Youtube Channel (tutorials related to React, CSS and etc.)](https://www.youtube.com/channel/UCtiJrfAIaCZXFo8tvq_TXNQ)
 
 ## 1. Frontend
 
 ### React related
 
 - [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://youtu.be/RVFAyFWO4go)
+
+- [React TypeScript Cheatsheet | Document](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
+
 
 ### Redux related
 
