@@ -28,7 +28,13 @@
 
 - [NestJS Crash Course - Build a Complete Backend API](https://youtu.be/BiN-xzNkH_0)
 
-## 3. Testing
+## 3. Language
+
+### Typescript
+
+-[No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+
+## 4. Testing
 
 ### Jest related
 
