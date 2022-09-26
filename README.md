@@ -34,7 +34,11 @@
 
 -[No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
-## 4. Testing
+## 4. FullStack
+
+-[REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
+
+## 5. Testing
 
 ### Jest related
 
