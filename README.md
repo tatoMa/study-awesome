@@ -8,6 +8,10 @@
 - [Web Dev Simplified (A lot of different technique skill sharing)](https://www.youtube.com/c/WebDevSimplified)
 - [Freecodecamp (One of the biggest free learning material community)](https://www.youtube.com/c/Freecodecamp)
 
+## 0. Fondation
+
+- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)
+
 ## 1. Frontend
 
 ### React related
