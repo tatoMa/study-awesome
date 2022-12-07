@@ -10,6 +10,8 @@
 
 ## 0. Fondation
 
+- [The Agile Coach](https://youtube.com/playlist?list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC)
+
 - [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)
 
 ## 1. Frontend
