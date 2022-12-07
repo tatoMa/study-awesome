@@ -3,13 +3,13 @@
 ## Materials and tutorials for learning JS/TS/NODE, frontend and backend.
 
 - [My Youtube Channel (tutorials related to React, CSS and etc.)](https://www.youtube.com/channel/UCtiJrfAIaCZXFo8tvq_TXNQ)
-- 
+
 - [Jack Herrington (Advanced Frontend technologies Youtube channel)](https://www.youtube.com/c/JackHerrington)
-- 
+
 - [Fireship (Another programming advanced skills channel)](https://www.youtube.com/c/Fireship)
-- 
+
 - [Web Dev Simplified (A lot of different technique skill sharing)](https://www.youtube.com/c/WebDevSimplified)
-- 
+
 - [Freecodecamp (One of the biggest free learning material community)](https://www.youtube.com/c/Freecodecamp)
 
 ## 0. Fondation
