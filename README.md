@@ -3,9 +3,13 @@
 ## Materials and tutorials for learning JS/TS/NODE, frontend and backend.
 
 - [My Youtube Channel (tutorials related to React, CSS and etc.)](https://www.youtube.com/channel/UCtiJrfAIaCZXFo8tvq_TXNQ)
+- 
 - [Jack Herrington (Advanced Frontend technologies Youtube channel)](https://www.youtube.com/c/JackHerrington)
+- 
 - [Fireship (Another programming advanced skills channel)](https://www.youtube.com/c/Fireship)
+- 
 - [Web Dev Simplified (A lot of different technique skill sharing)](https://www.youtube.com/c/WebDevSimplified)
+- 
 - [Freecodecamp (One of the biggest free learning material community)](https://www.youtube.com/c/Freecodecamp)
 
 ## 0. Fondation
@@ -40,11 +44,11 @@
 
 ### Typescript
 
--[No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- [No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
 ## 4. FullStack
 
--[REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
+- [REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
 
 ## 5. Testing
 
