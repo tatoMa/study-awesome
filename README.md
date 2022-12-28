@@ -1,5 +1,43 @@
 # Study Awesome
 
+## Paid Courses：
+
+### HTML:
+- [The Ultimate HTML/CSS Mastery Series (easy)](https://codewithmosh.com/p/the-ultimate-html-css)
+
+### CSS:
+- [The Ultimate HTML/CSS Mastery Series (easy)](https://codewithmosh.com/p/the-ultimate-html-css)
+- [CSS Demystified (mid)](https://www.kevinpowell.co/courses/)
+
+### JavaScript:
+- [Modern JavaScript From The Beginning (easy)](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+- [The Ultimate JavaScript Series (easy-mid)](https://codewithmosh.com/p/ultimate-javascript-series)
+- [Getting Started with JavaScript, v2 (easy-mid)](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+- [JavaScript: The Advanced Concepts (mid-snr)](https://www.udemy.com/course/advanced-javascript-concepts/)
+- [JavaScript: The Hard Parts (mid-snr)](https://frontendmasters.com/courses/javascript-hard-parts/)
+- [Deep JavaScript Foundations, v3 (mid-snr)](https://frontendmasters.com/courses/deep-javascript-v3/)
+
+### TypeScript:
+- [The Ultimate TypeScript Course (easy-mid)](https://codewithmosh.com/p/the-ultimate-typescript)
+- [TypeScript Fundamentals, v3 (easy)](https://frontendmasters.com/courses/typescript-v3/)
+- [Intermediate TypeScript (mid-snr)](https://frontendmasters.com/courses/intermediate-typescript/)
+- [React and TypeScript (mid)](https://frontendmasters.com/courses/react-typescript/)
+
+### React:
+- [Epic react (mid)](https://epicreact.dev/)
+- [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) (mid) ](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+
+### Testing:
+- [Testing JavaScript with Kent C. Dodds (mid-snr)](https://testingjavascript.com/)
+
+### Nextjs:
+- [Introduction to Next.js, v2 (easy)](https://frontendmasters.com/workshops/next-js-v2/)
+- [Production-Grade Next.js (mid)](https://frontendmasters.com/courses/production-next/)
+- [Build a Fullstack App from Scratch (feat Next.js) (mid)](https://frontendmasters.com/courses/fullstack-app-next/)
+
+### Interview:
+- [Interviewing for Front-End Engineers (mid)](https://frontendmasters.com/courses/interviewing-frontend/)
+
 ## Free Courses and materials:
 
 ### Materials and tutorials for learning JS/TS/NODE, frontend and backend.
@@ -57,41 +95,3 @@
 #### Jest related
 
 - [2021-08-30-Frontend unit tests - Steven D](https://drive.google.com/file/d/13GiJYIktxdvVAiWMzhZCaq08_Hmjwn-R/view?usp=sharing)
-
-## Paid Courses：
-
-### HTML:
-- [The Ultimate HTML/CSS Mastery Series (easy)](https://codewithmosh.com/p/the-ultimate-html-css)
-
-### CSS:
-- [The Ultimate HTML/CSS Mastery Series (easy)](https://codewithmosh.com/p/the-ultimate-html-css)
-- [CSS Demystified (mid)](https://www.kevinpowell.co/courses/)
-
-### JavaScript:
-- [Modern JavaScript From The Beginning (easy)](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
-- [The Ultimate JavaScript Series (easy-mid)](https://codewithmosh.com/p/ultimate-javascript-series)
-- [Getting Started with JavaScript, v2 (easy-mid)](https://frontendmasters.com/courses/getting-started-javascript-v2/)
-- [JavaScript: The Advanced Concepts (mid-snr)](https://www.udemy.com/course/advanced-javascript-concepts/)
-- [JavaScript: The Hard Parts (mid-snr)](https://frontendmasters.com/courses/javascript-hard-parts/)
-- [Deep JavaScript Foundations, v3 (mid-snr)](https://frontendmasters.com/courses/deep-javascript-v3/)
-
-### TypeScript:
-- [The Ultimate TypeScript Course (easy-mid)](https://codewithmosh.com/p/the-ultimate-typescript)
-- [TypeScript Fundamentals, v3 (easy)](https://frontendmasters.com/courses/typescript-v3/)
-- [Intermediate TypeScript (mid-snr)](https://frontendmasters.com/courses/intermediate-typescript/)
-- [React and TypeScript (mid)](https://frontendmasters.com/courses/react-typescript/)
-
-### React:
-- [Epic react (mid)](https://epicreact.dev/)
-- [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) (mid) ](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
-
-### Testing:
-- [Testing JavaScript with Kent C. Dodds (mid-snr)](https://testingjavascript.com/)
-
-### Nextjs:
-- [Introduction to Next.js, v2 (easy)](https://frontendmasters.com/workshops/next-js-v2/)
-- [Production-Grade Next.js (mid)](https://frontendmasters.com/courses/production-next/)
-- [Build a Fullstack App from Scratch (feat Next.js) (mid)](https://frontendmasters.com/courses/fullstack-app-next/)
-
-### Interview:
-- [Interviewing for Front-End Engineers (mid)](https://frontendmasters.com/courses/interviewing-frontend/)
