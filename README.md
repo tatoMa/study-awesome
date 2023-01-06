@@ -70,9 +70,13 @@
 
 - [What is agile project management? | Article](https://www.atlassian.com/agile/project-management)
 
+### 1. Frontend
+
+#### HTML & CSS related
+
 - [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)
 
-### 1. Frontend
+- [The 2023 Frontend Development Crash Course - Learn HTML & CSS (easy, turning UI design into HTML and CSS)](https://youtu.be/Kl3nOXQjVnQ)
 
 #### React related
 
