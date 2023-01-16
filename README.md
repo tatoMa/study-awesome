@@ -100,6 +100,8 @@
 
 #### Typescript
 
+- [Typescript for Beginners (easy)](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
+
 - [No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
 ### 4. FullStack
