@@ -66,35 +66,35 @@
 
 ### 0. Fondation
 
-- [The Agile Coach | Video](https://youtube.com/playlist?list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC)
+- [The Agile Coach | Video (easy)](https://youtube.com/playlist?list=PLaD4FvsFdarT0B2yi9byhKWYX1YmrkrpC)
 
-- [What is agile project management? | Article](https://www.atlassian.com/agile/project-management)
+- [What is agile project management? | Article (easy)](https://www.atlassian.com/agile/project-management)
 
 ### 1. Frontend
 
 #### HTML & CSS related
 
-- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://youtu.be/n4R2E7O-Ngo)
+- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours (easy)](https://youtu.be/n4R2E7O-Ngo)
 
 - [The 2023 Frontend Development Crash Course - Learn HTML & CSS (easy, turning UI design into HTML and CSS)](https://youtu.be/Kl3nOXQjVnQ)
 
 #### React related
 
-- [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://youtu.be/RVFAyFWO4go)
+- [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours (easy)](https://youtu.be/RVFAyFWO4go)
 
-- [React TypeScript Cheatsheet | Document](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
+- [React TypeScript Cheatsheet | Document (easy-mid)](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
 
 #### Redux related
 
-- [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://youtu.be/NqzdVN2tyvQ)
+- [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial (easy)](https://youtu.be/NqzdVN2tyvQ)
 
-- [RTK re-fetch,auto-fetch related tags,query and mutation with providesTags and invalidatesTags APIs](https://youtu.be/3QLpHlmdW_U?t=741)
+- [RTK re-fetch,auto-fetch related tags,query and mutation with providesTags and invalidatesTags APIs (easy-mid)](https://youtu.be/3QLpHlmdW_U?t=741)
 
 ### 2. Backend
 
 #### Nest related
 
-- [NestJS Crash Course - Build a Complete Backend API](https://youtu.be/BiN-xzNkH_0)
+- [NestJS Crash Course - Build a Complete Backend API (easy-mid)](https://youtu.be/BiN-xzNkH_0)
 
 ### 3. Language
 
@@ -102,11 +102,11 @@
 
 - [Typescript for Beginners (easy)](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
 
-- [No BS TS By Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- [No BS TS By Jack Herrington (mid-snr)](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
 ### 4. FullStack
 
-- [REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
+- [REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES) (easy-mid)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
 
 ### 5. Testing
 
