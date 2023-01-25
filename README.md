@@ -112,6 +112,8 @@
 
 #### Jest related
 
+- [React Testing Tutorial with React Testing Library and Jest (easy)](https://youtu.be/Flo268xRpV0)
+
 - [2021-08-30-Frontend unit tests - Steven D](https://drive.google.com/file/d/13GiJYIktxdvVAiWMzhZCaq08_Hmjwn-R/view?usp=sharing)
 
 ### 5. Agile
