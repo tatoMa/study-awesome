@@ -122,6 +122,6 @@
 
 - [Zenhub Quick Tutorials](https://youtube.com/playlist?list=PLFIGvQyXSp3CGS8X300Aj-hUZ-VLIhHbk)
 
-#### Git
+#### Git & Github flow
 
--[A typical GitHub workflow // what to expect (easy)](https://www.youtube.com/watch?v=02aQhH5cNBg)
+- [A typical GitHub workflow // what to expect (easy)](https://www.youtube.com/watch?v=02aQhH5cNBg)
