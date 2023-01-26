@@ -116,8 +116,12 @@
 
 - [2021-08-30-Frontend unit tests - Steven D](https://drive.google.com/file/d/13GiJYIktxdvVAiWMzhZCaq08_Hmjwn-R/view?usp=sharing)
 
-### 5. Agile
+### 5. Others
 
 #### Zenhub
 
 - [Zenhub Quick Tutorials](https://youtube.com/playlist?list=PLFIGvQyXSp3CGS8X300Aj-hUZ-VLIhHbk)
+
+#### Git
+
+-[A typical GitHub workflow // what to expect (easy)](https://www.youtube.com/watch?v=02aQhH5cNBg)
