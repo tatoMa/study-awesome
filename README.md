@@ -92,6 +92,10 @@
 
 ### 2. Backend
 
+#### Node/Express
+
+- [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours (easy)](https://youtu.be/f2EqECiTBL8)
+
 #### Nest related
 
 - [NestJS Crash Course - Build a Complete Backend API (easy-mid)](https://youtu.be/BiN-xzNkH_0)
