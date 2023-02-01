@@ -128,6 +128,6 @@
 
 #### Git & Github flow
 
-- [GitHub Flow Tutorial: Basic workflow for git (easy)](https://youtu.be/GgjIvUrOpmg)
-
 - [A typical GitHub workflow // what to expect (easy)](https://www.youtube.com/watch?v=02aQhH5cNBg)
+
+- [GitHub Flow Tutorial: Basic workflow for git (easy-mid)](https://youtu.be/GgjIvUrOpmg)\
