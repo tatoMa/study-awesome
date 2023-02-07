@@ -102,6 +102,11 @@
 
 ### 3. Language
 
+#### Javascript
+
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (very easy)](https://youtu.be/W6NZfCO5SIk)
+- [ES6 Tutorial: Learn Modern JavaScript in 1 Hour (easy)](https://youtu.be/NCwa_xi0Uuc)
+
 #### Typescript
 
 - [Typescript for Beginners (easy)](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
