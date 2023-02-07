@@ -112,6 +112,8 @@
 
 - [REST API Design Best Practices Handbook (How to Build a REST API with BEST PRACTICES) (easy-mid)](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/amp/#rest-api-best-practices)
 
+- [monorepo.tools - Everything you need to know about monorepos, and the tools to build them.(mid-snr)](https://monorepo.tools/)
+
 ### 5. Testing
 
 #### Jest related
