@@ -70,6 +70,8 @@
 
 - [What is agile project management? | Article (easy)](https://www.atlassian.com/agile/project-management)
 
+- [Naming convention - Airbnb React/JavaScript Style Guide(easy)](https://airbnb.io/javascript/react/)
+
 ### 1. Frontend
 
 #### HTML & CSS related
