@@ -50,6 +50,8 @@
 
 - [Interviewing for Front-End Engineers (mid)](https://frontendmasters.com/courses/interviewing-frontend/)
 
+- [You are preparing for your React Interview the Wrong Way!(easy-mid)](https://youtu.be/ww6PepEnoW0)
+
 ## Free Courses and materials:
 
 ### Materials and tutorials for learning JS/TS/NODE, frontend and backend.
