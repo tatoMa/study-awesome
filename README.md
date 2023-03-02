@@ -146,3 +146,11 @@
 - [A typical GitHub workflow // what to expect (easy)](https://www.youtube.com/watch?v=02aQhH5cNBg)
 
 - [GitHub Flow Tutorial: Basic workflow for git (easy-mid)](https://youtu.be/GgjIvUrOpmg)\
+
+### 6. Advanced
+
+- [Understanding the V8 JavaScript Engine(mid)](https://youtu.be/xckH5s3UuX4)
+
+- [How a web browser builds and displays a web page(easy)](https://youtu.be/DuSURHrZG6I)
+
+- [How do web browsers work? | Web Demystified, Episode 5(snr)](https://youtu.be/uE3UPEK26U0)
