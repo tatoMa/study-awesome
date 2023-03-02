@@ -74,6 +74,8 @@
 
 - [Naming convention - Airbnb React/JavaScript Style Guide(easy)](https://airbnb.io/javascript/react/)
 
+- [REST API Mistakes Every Junior Developer should Avoid | clean-code(easy)](https://youtu.be/JxeTegu4dD8)
+
 ### 1. Frontend
 
 #### HTML & CSS related
