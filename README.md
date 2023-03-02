@@ -154,3 +154,7 @@
 - [How a web browser builds and displays a web page(easy)](https://youtu.be/DuSURHrZG6I)
 
 - [How do web browsers work? | Web Demystified, Episode 5(snr)](https://youtu.be/uE3UPEK26U0)
+
+- [What are Environment Variables, and how do I use them? (get,set)(mid)](https://youtu.be/ADh_OFBfdEE)
+
+- [Hide API Keys Without dotenv environment variables | Hiding API Keys in Javascript Netlify(mid)](https://youtu.be/2J3xbMkH2K4)
