@@ -86,6 +86,8 @@
 
 - [(Article)Semantic HTML5 Elements Explained (easy)](https://www.freecodecamp.org/news/semantic-html5-elements/)
 
+- [CSS Media Queries Tutorial for Responsive Design(easy)](https://www.youtube.com/watch?v=j1AhSWFcZpg)
+
 #### React related
 
 - [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours (easy)](https://youtu.be/RVFAyFWO4go)
