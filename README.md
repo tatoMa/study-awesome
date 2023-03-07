@@ -76,6 +76,8 @@
 
 - [REST API Mistakes Every Junior Developer should Avoid | clean-code(easy)](https://youtu.be/JxeTegu4dD8)
 
+- [Web Development In 2023 - A Practical Guide(easy)](https://youtu.be/u72H_zZzkcw)
+
 ### 1. Frontend
 
 #### HTML & CSS related
