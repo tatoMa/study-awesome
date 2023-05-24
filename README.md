@@ -156,6 +156,8 @@
 
 - [Git Tutorial for Beginners: Learn Git in 1 Hour (easy)](https://www.youtube.com/watch?v=8JJ101D3knE)
 
+- [The Advanced Git Kit (mid)](https://www.git-tower.com/learn/git/advanced-git-kit/)
+
 ### 6. Advanced
 
 - [Understanding the V8 JavaScript Engine(mid)](https://youtu.be/xckH5s3UuX4)
