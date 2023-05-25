@@ -78,6 +78,8 @@
 
 - [Web Development In 2023 - A Practical Guide(easy)](https://youtu.be/u72H_zZzkcw)
 
+- [JavaScript Naming Conventions(easy)](https://www.robinwieruch.de/javascript-naming-conventions/)
+
 ### 1. Frontend
 
 #### HTML & CSS related
