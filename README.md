@@ -92,6 +92,8 @@
 
 - [CSS Media Queries Tutorial for Responsive Design(easy)](https://www.youtube.com/watch?v=j1AhSWFcZpg)
 
+- [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours(easy)](https://www.youtube.com/watch?v=lCxcTsOHrjo)
+
 #### React related
 
 - [React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours (easy)](https://youtu.be/RVFAyFWO4go)
