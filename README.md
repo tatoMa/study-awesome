@@ -148,7 +148,7 @@
 
 #### E2E testing related
 
--[Testing JavaScript with Cypress – Full Course (easy)](https://youtu.be/u8vMu7viCm8)
+- [Testing JavaScript with Cypress – Full Course (easy)](https://youtu.be/u8vMu7viCm8)
 
 ### 5. Others
 
