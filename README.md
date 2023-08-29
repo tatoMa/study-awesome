@@ -46,6 +46,10 @@
 
 - [Agile Business Analysis (easy)](https://www.udemy.com/course/agile-business-analysis/)
 
+### Cloud:
+
+- [Serverless Framework Bootcamp: Node.js, AWS & Microservices (easy-mid)](https://www.udemy.com/course/serverless-framework/)
+
 ### Interview:
 
 - [Interviewing for Front-End Engineers (mid)](https://frontendmasters.com/courses/interviewing-frontend/)
