@@ -56,6 +56,8 @@
 
 - [You are preparing for your React Interview the Wrong Way!(easy-mid)](https://youtu.be/ww6PepEnoW0)
 
+- [在澳洲，如何准备 IT 面试，如何用自己的故事 hightight 自己的技能-技术面试／behavior 面试／Anecdote 打动面试官 @ 墨尔本 WEB 大咖面对面之虎头锤老师](https://youtu.be/rFn0tsglf7g?si=y7Ne44CQmTkxhidX)
+
 ## Free Courses and materials:
 
 ### Materials and tutorials for learning JS/TS/NODE, frontend and backend.
