@@ -128,6 +128,8 @@
 
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (very easy)](https://youtu.be/W6NZfCO5SIk)
 
+- [JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours (easy)](https://youtu.be/EfAl9bwzVZk?si=Q-UgYBOAqh2ti-pm)
+
 - [ES6 Tutorial: Learn Modern JavaScript in 1 Hour (easy)](https://youtu.be/NCwa_xi0Uuc)
 
 - [10 JavaScript Concepts Every Developer Should Know (or should you?!)(mid)](https://youtu.be/ERKvz5cQMus)
