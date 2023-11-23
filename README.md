@@ -146,6 +146,8 @@
 
 - [monorepo.tools - Everything you need to know about monorepos, and the tools to build them.(mid-snr)](https://monorepo.tools/)
 
+- [Web App JWT/Security/Authentication (easy-mid)](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ)
+
 ### 5. Testing
 
 #### Unit testing related
