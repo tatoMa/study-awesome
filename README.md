@@ -189,3 +189,6 @@
 - [What are Environment Variables, and how do I use them? (get,set)(mid)](https://youtu.be/ADh_OFBfdEE)
 
 - [Hide API Keys Without dotenv environment variables | Hiding API Keys in Javascript Netlify(mid)](https://youtu.be/2J3xbMkH2K4)
+
+- [25+ JavaScript Shorthand Coding Techniques(mid)](https://www.sitepoint.com/shorthand-javascript-techniques/#17arrayfindshorthand)
+
